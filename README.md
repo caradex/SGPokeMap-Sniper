@@ -1,2 +1,2 @@
 # SGPokeMap-Sniper
-Userscript that adds PokeSniper links in SGPokeMap
+Userscript that adds PokeSniper links to SGPokeMap.
